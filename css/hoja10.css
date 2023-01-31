@@ -1,0 +1,339 @@
+
+h3 {
+	font-size: 60px;
+	font-family: 'Lobster', cursive;
+}
+.caja1{
+width: 650px;
+height:90px;
+background-color: #7AD0F3  ;
+margin:auto;
+border: 5px groove black;
+}
+.caja2 {
+width: 200px;
+height:200px;
+background-color: blue;
+margin:auto;
+}
+h4{
+
+	font-size: 38px;
+}
+
+.imagen {
+
+	position: relative;
+	bottom: -70px;
+	left: 130px;
+
+    width:150px;
+    height:150px;
+    border-radius:160px;
+    border:10px solid #666;
+
+}
+
+
+
+.palabras{
+	font-size: 30px;
+	width: 1450px;
+    height:220px;
+    bottom: 40px;
+	left: 80px;
+    position: relative;
+
+    
+    text-shadow: transparent;
+    align-items: center;
+    line-height: 2.5em;
+}
+h4 {
+
+	position: relative;
+    bottom: 80px;
+	left: 100px;
+}
+
+
+h5{
+
+	font-size: 40px;
+}
+
+.logo1{
+height: 200px !important;
+width: 200px !important;
+
+}
+
+.main-menu{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	list-style: none;
+}
+
+
+.menu-item{
+margin: 0 1rem;
+font-weight: 600;
+cursor: pointer;
+transition: 0.5s;
+color: #f2f2f2;
+text-decoration: none;
+font-size: 20px;
+
+}
+
+.cta {
+padding: 10px 24px;
+border-radius: 30px;
+background-color: var(--main-color);
+color: #f2f2f2;
+font-weight: 600;
+cursor: pointer;
+transition: 0.5s;
+}
+.cta:hover{
+color: #f2f2f2;
+background-color: #04548a;
+
+}
+.menu-item:hover{
+color: var(--main-color);
+
+}
+
+body {
+background-image:  url(../igm/fondo.jpg)  ;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+    font-size: 1.2rem;
+	line-height: 1.6em;
+	margin: 0px;
+}
+
+header a {
+color: #131716  ;
+text-decoration: none;
+
+}
+.navigation ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.navigation ul li {
+	display: inline-block;
+
+}
+.navigation ul li a {
+		display: block;
+	padding: 0.5rem;
+	transition: all 0.4s linear;
+	border-radius: 5px;
+}
+.navigation ul li a:hover {
+background: #A11774 ;
+
+}
+h3	{
+
+	font-size: 30px;
+}
+
+
+.main {
+padding-top: 12rem;
+}
+
+
+
+
+header {
+	background: #c77092;
+	color: white;
+	padding: 2rem 0;
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0px;
+	z-index: 100000;
+	background-size: 40px;
+	padding: 25px;
+	text-align: center;
+	border-radius: 35px;
+
+}
+.header a {
+color: white;
+text-decoration: none;
+text-align: center;
+font-size: 45px;
+}
+
+
+
+
+
+.container{
+width: 85%;
+max-width: 850px;
+margin:0 auto;
+}
+
+h1{line-height: 1.1em;
+	font-size: 2rem;
+
+}
+
+
+footer h1 {
+	text-align: left;
+}
+.footer {
+background: #f2f2f2;
+padding: 4rem 0;
+text-align: center;
+margin-top: 6rem;
+
+}
+
+
+footer {
+	background-color: #c77092;
+ text-align: left;
+
+
+}
+
+.palabras{
+	font-size: 33px;
+	text-align: center;
+}
+
+
+.logo1 {
+
+width: 100px;
+height: 100px;
+margin: auto;
+}
+.logo1 img {
+
+	width: 100px;
+
+}
+
+
+.contenedor{
+    margin: auto;
+	width: 1200px;
+	height: 230px;
+	display: flex;
+	color: black;
+
+}
+
+.col1 {
+	width: 500px;
+}
+.col1 h1 {
+
+margin-bottom: 15px;
+
+
+}
+.col1 p {
+margin-bottom: 10px;
+
+}
+
+.col2 {
+	width: 450px;
+	align-items: center;
+
+}
+.col2 img{
+width: 40px;
+margin:5px ;
+align-items: center;
+}
+
+.col2 .ig{
+	display:fex ;
+	align-items: center;
+
+}
+.col2 .fb{
+	display:fex ;
+	align-items: center;
+}
+.col2 h1 {
+
+margin-bottom: 15px;
+align-items: center;
+
+
+}
+.col2 p {
+margin-bottom: 10px;
+align-items: center;
+
+}
+.col2 .wp{
+	display:fex ;
+	align-items: center;
+}
+
+.col3 {
+
+	width: 250px;
+
+}
+.col3 h1 {
+
+margin-bottom: 15px;
+
+
+}
+.col3 p {
+margin-bottom: 10px;
+
+}
+
+.final {
+
+width: 1200px;
+height: 80px;
+margin: auto;
+color: black;
+
+}
+
+.copy{
+
+width: 600px;
+
+float: left;
+margin-top: 50px;
+text-align: left;
+
+}
+.politic{
+
+
+width: 600px;
+
+float: right;
+margin-top: 50px;
+text-align: right;
+}
+
+
+h1{
+	text-align: center;
+}
